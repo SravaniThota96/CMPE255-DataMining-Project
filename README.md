@@ -4,7 +4,7 @@
 
 * Topic 1:
 
-Instagram Mining:
+**Instagram Mining**:
 
 Data Mining on top instagram github coding influencers, to analyze the top coding influencers, popular categories of the posts, followers field of interest etc.
 Perform EDA on the dataset - Cleanse data and Select Relevant features
@@ -14,7 +14,7 @@ Show top accounts based on categories(science engineering, web design, product s
 
 * Topic 2:
 
-Insurance Prediction:
+**Insurance Prediction**:
 
 Dataset consists of details of customers such as their : age, bmi, sex, number of children, smoker, region, charges
 Perform EDA on the dataset - cleanse data and select relevant features
@@ -22,6 +22,6 @@ Predict insurance charges for a potential new customer based on the given featur
 
 * Topic 3:
 
-Detection of Fradulent Transactions in Financial Institution:
+**Detection of Fradulent Transactions in Financial Institution**:
 
 Financial institutions must be able to spot fraudulent transactions in order to prevent charging clients for goods they did not buy. In this research, anamoly detection will be used to determine whether any transactions are fraudulent. Data mining's anomaly detection stage seeks out data points, occasions, and/or observations that differ from a dataset's typical behavior.
