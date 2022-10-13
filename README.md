@@ -2,7 +2,7 @@
 
 
 
-# Project Ideas
+`Project Ideas`
 
 **Instagram Mining**:
 
