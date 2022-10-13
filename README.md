@@ -1,6 +1,8 @@
 # FA22-255-Data-Mining-Project
 
-`Project Ideas`
+
+
+# Project Ideas
 
 **Instagram Mining**:
 
