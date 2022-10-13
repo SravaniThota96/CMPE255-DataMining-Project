@@ -2,9 +2,9 @@
 
 `Project Ideas`
 
-Topic 1:
+* Topic 1:
 
-Instagram Mining!
+Instagram Mining:
 
 Data Mining on top instagram github coding influencers, to analyze the top coding influencers, popular categories of the posts, followers field of interest etc.
 Perform EDA on the dataset - Cleanse data and Select Relevant features
@@ -12,7 +12,7 @@ Rank the instagram accounts based on popularity - various attributes such as : f
 Show top accounts based on categories(science engineering, web design, product service), categories with most interactions etc.
 
 
-Topic 2:
+* Topic 2:
 
 Insurance Prediction:
 
@@ -20,7 +20,7 @@ Dataset consists of details of customers such as their : age, bmi, sex, number o
 Perform EDA on the dataset - cleanse data and select relevant features
 Predict insurance charges for a potential new customer based on the given features
 
-Topic 3:
+* Topic 3:
 
 Detection of Fradulent Transactions in Financial Institution:
 
