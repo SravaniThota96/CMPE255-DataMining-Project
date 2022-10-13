@@ -4,7 +4,9 @@
 
 **`Project Ideas`**
 
-**Instagram Mining**:
+
+
+**`Instagram Mining`**:
 
 * Data Mining on top instagram github coding influencers, to analyze the top coding influencers, popular categories of the posts, followers field of interest etc.
 * Perform EDA on the dataset - Cleanse data and Select Relevant features
@@ -12,7 +14,7 @@
 * Show top accounts based on categories(science engineering, web design, product service), categories with most interactions etc.
 
 
-**Insurance Prediction**:
+**`Insurance Prediction`**:
 
 * Dataset consists of details of customers such as their : age, bmi, sex, number of children, smoker, region, charges
 * Perform EDA on the dataset - cleanse data and select relevant features
@@ -20,7 +22,7 @@
 * Identify if a potential new customer is very profitable, average, or not profitable to the insurance company.
 
 
-**Detection of Fradulent Transactions in Financial Institution**:
+**`Detection of Fradulent Transactions in Financial Institution`**:
 
 * Financial institutions must be able to spot fraudulent transactions in order to prevent charging clients for goods they did not buy.
 * In this research, anamoly detection will be used to determine whether any transactions are fraudulent.
